@@ -11,6 +11,8 @@
 -   Using the core functionalities of Angular such as:
     -   @Input, @Output, Property-, Two-way binding, Services and more..
 
+![mockup-tasks](https://github.com/isabella-projects/tasks/assets/76888305/1bbc8c94-324a-481f-b484-0d5fe670f2af)
+
 # 🛠 Tech Stack
 
 <div>
